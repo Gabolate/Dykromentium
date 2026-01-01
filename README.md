@@ -14,3 +14,5 @@ Credits:
 - RikGDI: Main Idea, GDI FX and Bytebeat
 - CeeJay: GDI FX and Bytebeat
 - Gabolate (Me): MBR
+
+(Note: I'm no longer associated with the other creators of this malware)
